@@ -4,13 +4,22 @@ html, body{
 
 .irissa_rock{
   position: relative;
-  left: 90%;
-  right: 90%;
+  animation: irissa_move 15s ease infinite;
+  overflow:hidden;
 }
 
 .irissa_rock:hover{
-  position: absolute;
-  left: 50vmin;
-  right: 50vmin;
   cursor:crosshair;
+}
+
+@keyframes irissa_move {
+  0% {
+    left: 5%, top 5%;
+  }
+    50% {
+    left: 5%, top 7%;
+  }
+    100% {
+    left: 5%, top 5%;
+  }
 }
