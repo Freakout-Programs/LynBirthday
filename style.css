@@ -12,6 +12,7 @@ html, body{
   animation: irissa_move 15s ease infinite;
   max-width: 5%;
   height: auto;
+  z-index: 10;
   overflow: hidden;
 }
 
