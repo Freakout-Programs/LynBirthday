@@ -10,26 +10,28 @@ html, body{
 .irissa_rock{
   position: absolute;
   animation: irissa_move 15s ease infinite;
-  max-width: 5%;
+  max-width: 5vmin;
   height: auto;
   z-index: 10;
 }
 
 .irissa_rock:hover{
   cursor:crosshair;
+  max-width: 6vmin;
+
 }
 
 @keyframes irissa_move {
   0% {
     left: 2%; 
-    top: 85%;
+    top: 65%;
   }
     50% {
     left: 2%; 
-      top: 89%;
+      top: 69%;
   }
     100% {
     left: 2%; 
-    top: 85%;
+    top: 65%;
   }
 }
