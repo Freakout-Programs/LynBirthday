@@ -5,7 +5,7 @@ html, body{
 .irissa_rock{
   position: relative;
   animation: irissa_move 15s ease infinite;
-  max-width: 1vmax;
+  max-width: 10vmax;
   height: auto;
   overflow: hidden;
 }
