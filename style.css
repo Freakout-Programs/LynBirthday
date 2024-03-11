@@ -1,16 +1,16 @@
-html{
+html, body{
   background-color: black;
 }
 
 .irissa_rock{
   position: absolute;
-  left: 10vmin;
-  right: 10vmin;
+  left: 90%;
+  right: 90%;
 }
 
-.irissa_rock::hover{
+.irissa_rock:hover{
   position: absolute;
-  left: 9vmin;
-  right: 9vmin;
+  left: 50vmin;
+  right: 50vmin;
   cursor:crosshair;
 }
