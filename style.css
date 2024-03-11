@@ -5,8 +5,8 @@ html, body{
 .irissa_rock{
   position: relative;
   animation: irissa_move 15s ease infinite;
-  width: 1vmin;
-  height: 1vmin;
+  max-width: 1%;
+  height: auto;
 }
 
 .irissa_rock:hover{
@@ -15,15 +15,15 @@ html, body{
 
 @keyframes irissa_move {
   0% {
-    left: 5%; 
-    top: -105%;
+    left: 2%; 
+    top: -85%;
   }
     50% {
-    left: 5%; 
-      top: -109%;
+    left: 2%; 
+      top: -89%;
   }
     100% {
-    left: 5%; 
-    top: -105%;
+    left: 2%; 
+    top: -85%;
   }
 }
