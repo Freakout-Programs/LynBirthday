@@ -16,14 +16,14 @@ html, body{
 @keyframes irissa_move {
   0% {
     left: 10%; 
-    top: -145%;
+    top: -125%;
   }
     50% {
     left: 10%; 
-      top: -149%;
+      top: -129%;
   }
     100% {
     left: 10%; 
-    top: -145%;
+    top: -125%;
   }
 }
