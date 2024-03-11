@@ -3,9 +3,9 @@ html, body{
 }
 
 .irissa_rock{
-  position: relative;
+  position: absolute;
   animation: irissa_move 15s ease infinite;
-  max-width: 10vmin;
+  max-width: 5%;
   height: auto;
   overflow: hidden;
 }
@@ -17,14 +17,14 @@ html, body{
 @keyframes irissa_move {
   0% {
     left: 2%; 
-    top: -85%;
+    top: 85%;
   }
     50% {
     left: 2%; 
-      top: -89%;
+      top: 89%;
   }
     100% {
     left: 2%; 
-    top: -85%;
+    top: 85%;
   }
 }
