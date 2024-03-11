@@ -3,7 +3,7 @@ html, body{
 }
 
 .irissa_rock{
-  position: absolute;
+  position: relative;
   left: 90%;
   right: 90%;
 }
