@@ -10,14 +10,56 @@ html, body{
 .irissa_rock{
   position: absolute;
   animation: irissa_move 15s ease infinite;
-  width: 10%;
+  width: 13%;
   height: auto;
   z-index: 10;
 }
 
 .irissa_rock:hover{
   cursor:crosshair;
-  width: 12%;
+  width: 14%;
+
+}
+
+.mun_rock{
+  position: absolute;
+  animation: mun_move 15s ease infinite;
+  width: 13%;
+  height: auto;
+  z-index: 10;
+}
+
+.mun_rock:hover{
+  cursor:crosshair;
+  width: 14%;
+
+}
+
+.reki_rock{
+  position: absolute;
+  animation: reki_move 15s ease infinite;
+  width: 13%;
+  height: auto;
+  z-index: 10;
+}
+
+.reki_rock:hover{
+  cursor:crosshair;
+  width: 14%;
+
+}
+
+.kaiyo_rock{
+  position: absolute;
+  animation: kaiyo_move 15s ease infinite;
+  width: 13%;
+  height: auto;
+  z-index: 10;
+}
+
+.kaiyo_rock:hover{
+  cursor:crosshair;
+  width: 14%;
 
 }
 
@@ -33,5 +75,50 @@ html, body{
     100% {
     left: 2%; 
     top: 37%;
+  }
+}
+
+@keyframes mun_move {
+  0% {
+    left: 91%; 
+    top: 33%;
+  }
+    50% {
+    left: 91%; 
+      top: 29%;
+  }
+    100% {
+    left: 91%; 
+    top: 33%;
+  }
+}
+
+@keyframes reki_move {
+  0% {
+    left: 4%; 
+    top: 31%;
+  }
+    50% {
+    left: 4%; 
+      top: 35%;
+  }
+    100% {
+    left: 4%; 
+    top: 31%;
+  }
+}
+
+@keyframes kaiyo_move {
+  0% {
+    left: 92%; 
+    top: 35%;
+  }
+    50% {
+    left: 93%; 
+      top: 39%;
+  }
+    100% {
+    left: 92%; 
+    top: 35%;
   }
 }
