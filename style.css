@@ -10,14 +10,14 @@ html, body{
 .irissa_rock{
   position: absolute;
   animation: irissa_move 15s ease infinite;
-  width: 1%;
+  max-width: 1%;
   height: auto;
   z-index: 10;
 }
 
 .irissa_rock:hover{
   cursor:crosshair;
-  width: 2%;
+  max-width: 2%;
 
 }
 
