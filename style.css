@@ -80,15 +80,15 @@ html, body{
 
 @keyframes mun_move {
   0% {
-    left: 85%; 
+    right: 17%; 
     top: 23%;
   }
     50% {
-    left: 85%; 
+    right: 17%; 
       top: 19%;
   }
     100% {
-    left: 85%; 
+    right: 17%; 
     top: 23%;
   }
 }
@@ -110,15 +110,15 @@ html, body{
 
 @keyframes kaiyo_move {
   0% {
-    left: 86%; 
+    right: 18%; 
     top: 35%;
   }
     50% {
-    left: 87%; 
+    right: 18.5%; 
       top: 39%;
   }
     100% {
-    left: 86%; 
+    right: 18%; 
     top: 35%;
   }
 }
