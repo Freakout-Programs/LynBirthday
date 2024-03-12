@@ -80,45 +80,45 @@ html, body{
 
 @keyframes mun_move {
   0% {
-    left: 91%; 
-    top: 33%;
+    left: 85%; 
+    top: 23%;
   }
     50% {
-    left: 91%; 
-      top: 29%;
+    left: 85%; 
+      top: 19%;
   }
     100% {
-    left: 91%; 
-    top: 33%;
+    left: 85%; 
+    top: 23%;
   }
 }
 
 @keyframes reki_move {
   0% {
     left: 4%; 
-    top: 31%;
+    top: 25%;
   }
     50% {
     left: 4%; 
-      top: 35%;
+      top: 29%;
   }
     100% {
     left: 4%; 
-    top: 31%;
+    top: 25%;
   }
 }
 
 @keyframes kaiyo_move {
   0% {
-    left: 92%; 
+    left: 86%; 
     top: 35%;
   }
     50% {
-    left: 93%; 
+    left: 87%; 
       top: 39%;
   }
     100% {
-    left: 92%; 
+    left: 86%; 
     top: 35%;
   }
 }
