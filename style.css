@@ -94,31 +94,35 @@ html, body{
 }
 
 @keyframes reki_move {
-  0% {
+  0%{
     left: 4%; 
-    top: 25%;
+    top: 7%;
   }
-    50% {
+  25% {
     left: 4%; 
-      top: 29%;
+    top: 5%;
+  }
+    75% {
+    left: 4%; 
+      top: 9%;
   }
     100% {
     left: 4%; 
-    top: 25%;
+    top: 7%;
   }
 }
 
 @keyframes kaiyo_move {
   0% {
-    right: 18%; 
-    top: 35%;
+    right: 3%; 
+    top: 55%;
   }
     50% {
-    right: 18.5%; 
-      top: 39%;
+    right: 3.5%; 
+      top: 59%;
   }
     100% {
-    right: 18%; 
-    top: 35%;
+    right: 3%; 
+    top: 55%;
   }
 }
