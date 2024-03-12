@@ -24,14 +24,14 @@ html, body{
 @keyframes irissa_move {
   0% {
     left: 2%; 
-    top: 41%;
+    top: 37%;
   }
     50% {
     left: 2%; 
-      top: 45%;
+      top: 41%;
   }
     100% {
     left: 2%; 
-    top: 41%;
+    top: 37%;
   }
 }
