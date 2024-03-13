@@ -30,7 +30,7 @@ html, body{
   opacity:80%;
   color: white;
   z-index:10;
-  left:8%;
+  left:15%;
   top:40%;
 }
 
@@ -53,7 +53,7 @@ html, body{
   opacity:80%;
   color: white;
   z-index:10;
-  right:23%;
+  right:33%;
   top:22%;
 }
 
@@ -79,7 +79,7 @@ html, body{
   opacity:80%;
   color: white;
   z-index:10;
-  left:8%;
+  left:19%;
   top:8%;
 }
 
@@ -105,7 +105,7 @@ html, body{
   opacity:80%;
   color: white;
   z-index:10;
-  right:9%;
+  right:16%;
   top:58%;
 }
 
