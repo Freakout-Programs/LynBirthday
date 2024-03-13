@@ -30,8 +30,8 @@ html, body{
   opacity:80%;
   color: white;
   z-index:10;
-  left:3%;
-  top:39%;
+  left:5%;
+  top:40%;
 }
 
 .mun_rock{
@@ -53,8 +53,8 @@ html, body{
   opacity:80%;
   color: white;
   z-index:10;
-  right:18%;
-top:21%;
+  right:20%;
+  top:22%;
 }
 
 .reki_rock{
@@ -79,8 +79,8 @@ top:21%;
   opacity:80%;
   color: white;
   z-index:10;
-  left:5%;
-  top:7%;
+  left:8%;
+  top:8%;
 }
 
 .kaiyo_rock{
@@ -105,8 +105,8 @@ top:21%;
   opacity:80%;
   color: white;
   z-index:10;
-  right:4%;
-  top:57%;
+  right:6%;
+  top:58%;
 }
 
 @keyframes irissa_move {
