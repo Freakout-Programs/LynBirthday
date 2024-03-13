@@ -1,6 +1,6 @@
 html, body{
   background-color: black;
-  cursor:url(https://i.gifer.com/origin/41/4102e25900101c953d28df6ce276cadc_w200.gif), auto;
+  cursor:crosshair;
 }
 
 .background{
@@ -8,7 +8,7 @@ html, body{
   height:100%;
   opacity:0%
   cursor:crosshair;
-  animation: appear 4s ease;
+  animation: appear 8s ease;
 }
 
 .irissa_rock{
