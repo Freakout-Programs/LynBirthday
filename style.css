@@ -29,6 +29,7 @@ html, body{
   position:absolute;
   opacity:80%;
   color: white;
+  z-index:10;
 }
 
 .mun_rock{
@@ -49,6 +50,7 @@ html, body{
   position:absolute;
   opacity:80%;
   color: white;
+  z-index:10;
 }
 
 .reki_rock{
@@ -72,6 +74,7 @@ html, body{
   position:absolute;
   opacity:80%;
   color: white;
+  z-index:10;
 }
 
 .kaiyo_rock{
@@ -95,6 +98,7 @@ html, body{
   position:absolute;
   opacity:80%;
   color: white;
+  z-index:10;
 }
 
 @keyframes irissa_move {
