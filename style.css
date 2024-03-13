@@ -27,7 +27,8 @@ html, body{
 
 .irissa_text{
   position:relative;
-  opacity:80%
+  opacity:80%;
+  color: white;
 }
 
 .mun_rock{
@@ -46,7 +47,8 @@ html, body{
 
 .mun_text{
   position:relative;
-  opacity:80%
+  opacity:80%;
+  color: white;
 }
 
 .reki_rock{
@@ -68,7 +70,8 @@ html, body{
 
 .reki_text{
   position:relative;
-  opacity:80%
+  opacity:80%;
+  color: white;
 }
 
 .kaiyo_rock{
@@ -90,7 +93,8 @@ html, body{
 
 .kaiyo_text{
   position:relative;
-  opacity:80%
+  opacity:80%;
+  color: white;
 }
 
 @keyframes irissa_move {
