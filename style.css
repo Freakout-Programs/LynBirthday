@@ -73,6 +73,11 @@ html, body{
   opacity:100%;
 }
 
+.mun_name{
+  position: relative;
+  right:0%;
+}
+
 .mun_message{
   text-decoration:overline white;
 }
@@ -141,6 +146,11 @@ html, body{
 
 .kaiyo_rock:hover ~ #kaiyo_text{
   opacity:100%;
+}
+
+.kaiyo_name{
+  position:relative;
+  right:0%;
 }
 
 .kaiyo_message{
